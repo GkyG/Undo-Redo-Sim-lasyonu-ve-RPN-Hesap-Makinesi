@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G\u00F6kay\\Desktop\\Veri Yap\u0131lar\u0131 Lab deneme\\C kodlar\u0131 tekrar\\RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E93A6750-CD10-41CB-9CAD-7D510FEDE22A}|RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu.csproj|c:\\users\\g\u00F6kay\\desktop\\veri yap\u0131lar\u0131 lab deneme\\c kodlar\u0131 tekrar\\rpn hesap makinesi ve undo redo sim\u00FClasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93A6750-CD10-41CB-9CAD-7D510FEDE22A}|RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93A6750-CD10-41CB-9CAD-7D510FEDE22A}|RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu.csproj|c:\\users\\g\u00F6kay\\desktop\\veri yap\u0131lar\u0131 lab deneme\\c kodlar\u0131 tekrar\\rpn hesap makinesi ve undo redo sim\u00FClasyonu\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93A6750-CD10-41CB-9CAD-7D510FEDE22A}|RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu.csproj|solutionrelative:linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93A6750-CD10-41CB-9CAD-7D510FEDE22A}|RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu.csproj|c:\\users\\g\u00F6kay\\desktop\\veri yap\u0131lar\u0131 lab deneme\\c kodlar\u0131 tekrar\\rpn hesap makinesi ve undo redo sim\u00FClasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E93A6750-CD10-41CB-9CAD-7D510FEDE22A}|RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00F6kay\\Desktop\\Veri Yap\u0131lar\u0131 Lab deneme\\C kodlar\u0131 tekrar\\RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\G\u00F6kay\\Desktop\\Veri Yap\u0131lar\u0131 Lab deneme\\C kodlar\u0131 tekrar\\RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:41:36.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\G\u00F6kay\\Desktop\\Veri Yap\u0131lar\u0131 Lab deneme\\C kodlar\u0131 tekrar\\RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\G\u00F6kay\\Desktop\\Veri Yap\u0131lar\u0131 Lab deneme\\C kodlar\u0131 tekrar\\RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:14:50.422Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\G\u00F6kay\\Desktop\\Veri Yap\u0131lar\u0131 Lab deneme\\C kodlar\u0131 tekrar\\RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu\\LinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedList.cs",
+              "ToolTip": "C:\\Users\\G\u00F6kay\\Desktop\\Veri Yap\u0131lar\u0131 Lab deneme\\C kodlar\u0131 tekrar\\RPN Hesap Makinesi ve Undo Redo Sim\u00FClasyonu\\LinkedList.cs",
+              "RelativeToolTip": "LinkedList.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:07:22.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

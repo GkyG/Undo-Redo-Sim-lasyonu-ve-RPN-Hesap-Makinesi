@@ -1,0 +1,16 @@
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\bin\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.exe
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\bin\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.deps.json
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\bin\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.runtimeconfig.json
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\bin\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.dll
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\bin\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.pdb
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\RPN_Hesap_Makinesi_ve_Undo_Redo_Simülasyonu.Form1.resources
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.csproj.GenerateResource.cache
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.AssemblyInfoInputs.cache
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.AssemblyInfo.cs
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.dll
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\refint\RPN Hesap Makinesi ve Undo Redo Simülasyonu.dll
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.pdb
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\RPN Hesap Makinesi ve Undo Redo Simülasyonu.genruntimeconfig.cache
+C:\Users\Gökay\Desktop\Veri Yapıları Lab deneme\C kodları tekrar\RPN Hesap Makinesi ve Undo Redo Simülasyonu\obj\Debug\net9.0-windows\ref\RPN Hesap Makinesi ve Undo Redo Simülasyonu.dll

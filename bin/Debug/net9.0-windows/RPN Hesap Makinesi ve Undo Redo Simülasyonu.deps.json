@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RPN Hesap Makinesi ve Undo Redo Simülasyonu/1.0.0": {
+        "runtime": {
+          "RPN Hesap Makinesi ve Undo Redo Simülasyonu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPN Hesap Makinesi ve Undo Redo Simülasyonu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
